@@ -12,9 +12,115 @@ header {
     height: 20px;
 }
 
-@media only screen and (max-width: 937.5px) {
+#scarecrow {
+    position: absolute;
+    top: 212px;
+    left: 61.6px;
+    width: 431.37px;
+    height: 357.944px;
+}
+
+@media only screen and (max-width: 376px) {
     header {
-      top: 16px;
-      left: 19.2px;
+        top: 16px;
+        left: 19.2px;
+    }
+
+    #scarecrow {
+        top: 87.2px;
+        left: 35.2px;
+        width: 229.46px;
+        height: 190.4px;
+        margin-left: 10%;
+    }
+}
+
+@media only screen and (max-width: 300px) {
+    header {
+        top: 16px;
+        left: 19.2px;
+    }
+
+    #scarecrow {
+        top: 87.2px;
+        left: 35.2px;
+        width: 229.46px;
+        height: 190.4px;
+        margin-left: 1%;
+    }
+}
+
+@media only screen and (min-width: 377px) and (max-width: 429px) {
+    header {
+        top: 16px;
+        left: 19.2px;
+    }
+
+    #scarecrow {
+        top: 87.2px;
+        left: 35.2px;
+        width: 229.46px;
+        height: 190.4px;
+        margin-left: 15%;
+    }
+}
+
+@media only screen and (min-width: 430px) and (max-width: 480px) {
+    header {
+        top: 16px;
+        left: 19.2px;
+    }
+
+    #scarecrow {
+        top: 87.2px;
+        left: 35.2px;
+        width: 229.46px;
+        height: 190.4px;
+        margin-left: 18%;
+    }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 539px) {
+    header {
+        top: 16px;
+        left: 19.2px;
+    }
+
+    #scarecrow {
+        top: 87.2px;
+        left: 35.2px;
+        width: 229.46px;
+        height: 190.4px;
+        margin-left: 22%;
+    }
+}
+
+@media only screen and (min-width: 540px) and (max-width: 629px) {
+    header {
+        top: 16px;
+        left: 19.2px;
+    }
+
+    #scarecrow {
+        top: 87.2px;
+        left: 35.2px;
+        width: 229.46px;
+        height: 190.4px;
+        margin-left: 25%;
+    }
+}
+
+@media only screen and (min-width: 630px) and (max-width: 1000px){
+    header {
+        top: 16px;
+        left: 19.2px;
+    }
+
+    #scarecrow {
+        top: 87.2px;
+        left: 35.2px;
+        width: 229.46px;
+        height: 190.4px;
+        margin-left: 30%;
     }
 }
