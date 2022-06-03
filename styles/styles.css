@@ -3,18 +3,18 @@
 
 header {
     font-family: 'Inconsolata';
-    size: 24px;
+    size: 19.2px;
     color: #333333;
     position: absolute;
-    top: 40px;
-    left: 77px;
-    width: 133px;
-    height: 25px;
+    top: 32px;
+    left: 61.6px;
+    width: 106.4px;
+    height: 20px;
 }
 
-@media only screen and (max-width: 750px) {
+@media only screen and (max-width: 937.5px) {
     header {
-      top: 20px;
-      left: 24px;
+      top: 16px;
+      left: 19.2px;
     }
-  }
+}
