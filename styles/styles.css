@@ -58,6 +58,19 @@ article > button {
     border: none;
 }
 
+footer {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    color: #BDBDBD;
+    position: absolute;
+    top: 680px;
+    left: 620px;
+}
+
+#author {
+    font-weight: 700;
+}
+
 @media only screen and (max-width: 376px) {
     header {
         top: 16px;
@@ -107,6 +120,11 @@ article > button {
         height: 57.12px;
         line-height: 22.39px;
         margin-left: 1%;
+    }
+
+    footer {
+        top: 610px;
+        left: 40px;
     }
 }
 
@@ -160,6 +178,11 @@ article > button {
         line-height: 22.39px;
         margin-left: 1%;
     }
+
+    footer {
+        top: 660px;
+        left: 20px;
+    }
 }
 
 @media only screen and (min-width: 377px) and (max-width: 430px) {
@@ -211,6 +234,11 @@ article > button {
         height: 57.12px;
         line-height: 22.39px;
         margin-left: 1%;
+    }
+
+    footer {
+        top: 680px;
+        left: 60px;
     }
 }
 
@@ -264,6 +292,11 @@ article > button {
         line-height: 22.39px;
         margin-left: 1%;
     }
+
+    footer {
+        top: 660px;
+        left: 90px;
+    }
 }
 
 @media only screen and (min-width: 480px) and (max-width: 540px) {
@@ -315,6 +348,11 @@ article > button {
         height: 57.12px;
         line-height: 22.39px;
         margin-left: 1%;
+    }
+
+    footer {
+        top: 660px;
+        left: 80px;
     }
 }
 
@@ -368,6 +406,11 @@ article > button {
         line-height: 22.39px;   
         margin-left: 1%;
     }
+
+    footer {
+        top: 660px;
+        left: 90px;
+    }
 }
 
 @media only screen and (min-width: 630px) and (max-width: 1000px) {
@@ -416,5 +459,10 @@ article > button {
         width: 152.40px;
         height: 47.9px;
         line-height: 22.39px;
+    }
+
+    footer {
+        top: 400px;
+        left: 250px;
     }
 }
