@@ -22,6 +22,7 @@ header {
 
 article > h1 {
     font-family: 'Space Mono';
+    font-weight: 700;
     font-size: 51.2px;
     color: #333333;
     position: absolute;
@@ -70,6 +71,43 @@ article > button {
         height: 190.4px;
         margin-left: 10%;
     }
+
+    article {
+        position: absolute;
+        top: 100px;
+    }
+
+    article > h1,
+    article > p,
+    article > button {
+        position: absolute;
+        left: 60px;
+    }
+
+    article > h1 {
+        font-size: 33px;
+        top: 200px;
+        width: 294px;
+        line-height: 59.64px;
+        margin-left: 1%;
+    }
+
+    article > p {
+        font-size: 15.12px;
+        top: 330px;
+        width: 260px;
+        line-height: 22.39px;
+        margin-left: 1%;
+    }
+
+    article > button {
+        font-size: 11.76px;
+        top: 420px;
+        width: 181.44px;
+        height: 57.12px;
+        line-height: 22.39px;
+        margin-left: 1%;
+    }
 }
 
 @media only screen and (max-width: 300px) {
@@ -85,9 +123,46 @@ article > button {
         height: 190.4px;
         margin-left: 1%;
     }
+
+    article {
+        position: absolute;
+        top: 100px;
+    }
+
+    article > h1,
+    article > p,
+    article > button {
+        position: absolute;
+        left: 40px;
+    }
+
+    article > h1 {
+        font-size: 33px;
+        top: 200px;
+        width: 294px;
+        line-height: 59.64px;
+        margin-left: 1%;
+    }
+
+    article > p {
+        font-size: 15.12px;
+        top: 330px;
+        width: 260px;
+        line-height: 22.39px;
+        margin-left: 1%;
+    }
+
+    article > button {
+        font-size: 11.76px;
+        top: 420px;
+        width: 181.44px;
+        height: 57.12px;
+        line-height: 22.39px;
+        margin-left: 1%;
+    }
 }
 
-@media only screen and (min-width: 377px) and (max-width: 429px) {
+@media only screen and (min-width: 377px) and (max-width: 430px) {
     header {
         top: 16px;
         left: 19.2px;
@@ -99,6 +174,43 @@ article > button {
         width: 229.46px;
         height: 190.4px;
         margin-left: 15%;
+    }
+
+    article {
+        position: absolute;
+        top: 100px;
+    }
+
+    article > h1,
+    article > p,
+    article > button {
+        position: absolute;
+        left: 60px;
+    }
+
+    article > h1 {
+        font-size: 35px;
+        top: 220px;
+        width: 294px;
+        line-height: 59.64px;
+        margin-left: 1%;
+    }
+
+    article > p {
+        font-size: 15.12px;
+        top: 370px;
+        width: 260px;
+        line-height: 22.39px;
+        margin-left: 1%;
+    }
+
+    article > button {
+        font-size: 11.76px;
+        top: 490px;
+        width: 181.44px;
+        height: 57.12px;
+        line-height: 22.39px;
+        margin-left: 1%;
     }
 }
 
@@ -115,9 +227,46 @@ article > button {
         height: 190.4px;
         margin-left: 18%;
     }
+
+    article {
+        position: absolute;
+        top: 100px;
+    }
+
+    article > h1,
+    article > p,
+    article > button {
+        position: absolute;
+        left: 110px;
+    }
+
+    article > h1 {
+        font-size: 33px;
+        top: 200px;
+        width: 294px;
+        line-height: 59.64px;
+        margin-left: 1%;
+    }
+
+    article > p {
+        font-size: 15.12px;
+        top: 330px;
+        width: 260px;
+        line-height: 22.39px;
+        margin-left: 1%;
+    }
+
+    article > button {
+        font-size: 11.76px;
+        top: 420px;
+        width: 181.44px;
+        height: 57.12px;
+        line-height: 22.39px;
+        margin-left: 1%;
+    }
 }
 
-@media only screen and (min-width: 481px) and (max-width: 539px) {
+@media only screen and (min-width: 480px) and (max-width: 540px) {
     header {
         top: 16px;
         left: 19.2px;
@@ -129,6 +278,43 @@ article > button {
         width: 229.46px;
         height: 190.4px;
         margin-left: 22%;
+    }
+
+    article {
+        position: absolute;
+        top: 100px;
+    }
+
+    article > h1,
+    article > p,
+    article > button {
+        position: absolute;
+        left: 150px;
+    }
+
+    article > h1 {
+        font-size: 33px;
+        top: 200px;
+        width: 294px;
+        line-height: 59.64px;
+        margin-left: 1%;
+    }
+
+    article > p {
+        font-size: 15.12px;
+        top: 330px;
+        width: 260px;
+        line-height: 22.39px;
+        margin-left: 1%;
+    }
+
+    article > button {
+        font-size: 11.76px;
+        top: 420px;
+        width: 181.44px;
+        height: 57.12px;
+        line-height: 22.39px;
+        margin-left: 1%;
     }
 }
 
@@ -145,19 +331,90 @@ article > button {
         height: 190.4px;
         margin-left: 25%;
     }
+
+    article {
+        position: absolute;
+        top: 100px;
+    }
+
+    article > h1,
+    article > p,
+    article > button {
+        position: absolute;
+        left: 190px;
+    }
+
+    article > h1 {
+        font-size: 33px;
+        top: 200px;
+        width: 294px;
+        line-height: 59.64px;   
+        margin-left: 1%;
+    }
+
+    article > p {
+        font-size: 15.12px;
+        top: 330px;
+        width: 260px;
+        line-height: 22.39px;   
+        margin-left: 1%;
+    }
+
+    article > button {
+        font-size: 11.76px;
+        top: 420px;
+        width: 181.44px;
+        height: 57.12px;
+        line-height: 22.39px;   
+        margin-left: 1%;
+    }
 }
 
-@media only screen and (min-width: 630px) and (max-width: 1000px){
+@media only screen and (min-width: 630px) and (max-width: 1000px) {
     header {
         top: 16px;
         left: 19.2px;
     }
 
     #scarecrow {
-        top: 87.2px;
-        left: 35.2px;
-        width: 229.46px;
-        height: 190.4px;
+        top: 80px;
+        left: -120px;
+        width: 286.8px;
+        height: 238px;
         margin-left: 30%;
+    }
+
+    article {
+        position: absolute;
+        top: -20px;
+    }
+
+    article > h1,
+    article > p,
+    article > button {
+        position: absolute;
+        left: 520px;
+    }
+
+    article > h1 {
+        font-size: 33px;
+        top: 80px;
+        width: 294px;
+        line-height: 59.64px;
+    }
+
+    article > p {
+        font-size: 15.12px;
+        top: 210px;
+        width: 260px;
+        line-height: 22.39px;
+    }
+
+    article > button {
+        font-size: 11.76px;
+        top: 290px;
+        width: 152.40px;
+        height: 47.9px;
+        line-height: 22.39px;
     }
 }
