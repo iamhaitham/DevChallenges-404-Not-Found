@@ -3,13 +3,13 @@
 
 header {
     font-family: 'Inconsolata';
+    font-weight: 700;
     size: 19.2px;
     color: #333333;
     position: absolute;
     top: 32px;
     left: 61.6px;
     width: 106.4px;
-    height: 20px;
 }
 
 #scarecrow {
