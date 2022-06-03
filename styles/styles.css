@@ -15,7 +15,7 @@ header {
 #scarecrow {
     position: absolute;
     top: 212px;
-    left: 61.6px;
+    left: 91.6px;
     width: 431.37px;
     height: 357.944px;
 }
@@ -27,7 +27,7 @@ article > h1 {
     color: #333333;
     position: absolute;
     top: 212px;
-    left: 620px;
+    left: 820px;
     width: 480px;
     line-height: 79.6px;
 }
@@ -39,7 +39,7 @@ article > p {
     color: #4F4F4F;
     position: absolute;
     top: 412.44px;
-    left: 620px;
+    left: 820px;
     width: 328px;
     line-height: 29.8px;
 }
@@ -52,7 +52,7 @@ article > button {
     background-color: #333333;
     position: absolute;
     top: 557px;
-    left: 620px;
+    left: 820px;
     height: 57.12px;
     width: 181.44px;
     border: none;
