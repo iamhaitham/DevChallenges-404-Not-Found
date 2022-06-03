@@ -1,2 +1,12 @@
 @import url('./reset.css');
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&display=swap');
+
+header {
+    font-family: 'Inconsolata';
+    size: 24px;
+    position: absolute;
+    top: 40px;
+    left: 77px;
+    width: 133px;
+    height: 25px;
+}
